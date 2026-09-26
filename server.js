@@ -16,7 +16,7 @@ const GOOGLE_REDIRECT_URI =
     'https://stunnas-world-oauth.onrender.com/oauth2callback';
 
 const ALEXA_REDIRECT_URI =
-    'https://layla.amazon.com/api/skill/link/M1K5UKMD390BCA';
+      'https://pitangui.amazon.com/api/skill/link/M1K5UKMD390BCA';
 
 const ALEXA_CLIENT_ID = process.env.ALEXA_CLIENT_ID;
 const ALEXA_CLIENT_SECRET = process.env.ALEXA_CLIENT_SECRET;
