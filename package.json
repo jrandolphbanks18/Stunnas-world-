@@ -1,0 +1,13 @@
+{
+  "name": "stunnas-world-oauth",
+  "version": "1.0.0",
+  "description": "OAuth server for Stunna's World Alexa skill",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "googleapis": "^144.0.0"
+  }
+}
